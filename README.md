@@ -3,7 +3,7 @@
 Projeto de microsserviços com Spring Cloud desenvolvido durante o curso **Microsserviços em Spring Cloud com Java**, ministrado
 pelo professor <a href="https://www.linkedin.com/in/omneto/" target="_blank">Oswaldo Neto</a>.
 
-O projeto original implementado pela professora você pode encontrar
+O projeto original implementado pelo professor você pode encontrar
 <a href="https://github.com/oswaldoneto/dio-experts">clicando aqui.</a>
 
 ## Stack utilizada
